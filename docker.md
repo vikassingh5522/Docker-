@@ -1,4 +1,4 @@
-# Docker Basics — Beginner Notes
+# Docker Basics — Beginner Notes  wsl(Windows Subsystem for Linux)
 
 ## 1. Check Docker Version
 
